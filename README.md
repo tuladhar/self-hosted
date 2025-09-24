@@ -1,5 +1,7 @@
 # Self-hosted
 
+**Only at $34.99**
+
 Self-hosted in your ultimate hands-on practical book to deploy anything on your own.
 
 What is self-hosted or self-hosting means?
