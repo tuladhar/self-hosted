@@ -1,6 +1,4 @@
-# Self-hosted
-
-**Only at $34.99**
+# Self-hosted - **Only at $34.99**
 
 Self-hosted in your ultimate hands-on practical book to deploy anything on your own.
 
